@@ -1,0 +1,16 @@
+[
+    {
+        "title": "rich dad poor dad",
+        "author": "robert kiyosaki and sharon lechter",
+        "year": 1997,
+        "genre": "personal finance, non-fiction",
+        "isRead": true
+    },
+    {
+        "title": "the 7 habits of highly effective people",
+        "author": "stephen covey",
+        "year": 1989,
+        "genre": "self-development",
+        "isRead": true
+    }
+]
